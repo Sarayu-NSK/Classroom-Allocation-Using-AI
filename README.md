@@ -1,4 +1,4 @@
-# Classroom-Allocation-Using-AI
+# Classroom-Allocation-Using-AI (Python)
 
 There has been extensive research done on the Classroom Allocation to Sections using
 constraint satisfaction problem. It entails adjusting to a variety of constraints, such as
